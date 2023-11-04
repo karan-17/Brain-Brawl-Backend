@@ -1,0 +1,55 @@
+﻿asgiref==3.7.2
+Django==3.2.16
+django-cors-headers==4.0.0
+django-dotenv==1.4.2
+django-env==0.2.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+gunicorn==20.1.0
+Markdown==3.4.1
+PyJWT==2.7.0
+pytz==2023.3
+sqlparse==0.4.4
+typing_extensions==4.7.1
+# asgiref==3.6.0
+certifi==2022.12.7
+cffi==1.15.1
+charset-normalizer==2.1.1
+cryptography==38.0.3
+distlib==0.3.6
+# Django==3.2.10
+django-crispy-forms==1.7.2
+django-filter==22.1
+django-rest-knox==4.2.0
+# django-upgrade==1.12.0
+django-versatileimagefield==2.2
+# djangorestframework==3.14.0
+drf-flex-fields==1.0.0
+filelock==3.8.2
+idna==3.4
+# Markdown==3.4.1
+numpy==1.24.1
+# numpy==1.21.6
+opencv-python==4.7.0.68
+pbr==5.11.0
+pdfminer.six==20220524
+pdfplumber==0.7.5
+Pillow==9.3.0
+pipenv==2022.12.19
+platformdirs==2.6.0
+pycparser==2.21
+python-dotenv==0.21.0
+python-magic==0.4.27
+# python-magic-bin==0.4.14
+# pytz==2018.3
+requests==2.28.1
+# sqlparse==0.4.3
+# stevedore==4.1.1
+stevedore==3.5.2
+tokenize-rt==5.0.0
+tzdata==2022.7
+urllib3==1.26.13
+virtualenv==20.17.1
+virtualenv-clone==0.5.7
+virtualenvwrapper==4.8.4
+Wand==0.6.10
