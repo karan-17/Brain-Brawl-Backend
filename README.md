@@ -1,5 +1,9 @@
 # Brain-Brawl
 
+## Problem Statement:
+"In an era where educational institutions seek advanced and seamless methods for academic assessments, a challenge persists in providing user-friendly, real-time evaluation platforms for universities and colleges. The current systems often lack interactive features and fail to deliver an engaging 1v1 contest-based assessment experience. The absence of such an effective evaluation platform hinders the enhancement of learning experiences and the achievement of academic excellence within educational institutions. This prompts the need to address the deficiency by developing an innovative, comprehensive solution that facilitates real-time, user-friendly evaluations while fostering interactive 1v1 contest-based assessments, aligning with the project's vision to empower educational institutions and promote enhanced learning experiences."
+
+## Solution : 
 Welcome to the Brain-Brawl Django REST application repository! This backend application is designed to support the Flutter-based "Brain-Brawl" application, where students from different universities can compete in knockout competitions involving assessments that challenge both accuracy and speed.
 
 ## Application Overview
