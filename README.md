@@ -17,15 +17,15 @@ The Brain-Brawl application's main functionality is to facilitate knockout compe
 
 ## Backend Deployment
 
-The backend of Brain-Brawl is deployed on the Render platform. You can access it at [https://hackcbs-backend.onrender.com/](https://hackcbs-backend.onrender.com/).
+The backend of Brain-Brawl is deployed on the Render platform. You can access it at [Backend Base URL](https://hackcbs-backend.onrender.com/).
 
 ## Frontend Deployment
 
-The frontend of Brain-Brawl is deployed on the Firebase platform. You can access it at [https://brainbrawl-0001.web.app/](https://brainbrawl-0001.web.app/).
+The frontend of Brain-Brawl is deployed on the Firebase platform. You can access it at [Live Web App](https://brainbrawl-0001.web.app/).
 
 ## Figma Design Document
 
-The design of BrainBrawl is published at Figma. You can access it at [https://www.figma.com/file/tc2vPJYsZqPBrt8cqTSNOV/HackCBS?type=design&node-id=0%3A1&mode=design&t=ynFpkVBPMfrKGaKJ-1](https://www.figma.com/file/tc2vPJYsZqPBrt8cqTSNOV/HackCBS?type=design&node-id=0%3A1&mode=design&t=ynFpkVBPMfrKGaKJ-1).
+The design of BrainBrawl is published at Figma. You can access it at [Figma Link](https://www.figma.com/file/tc2vPJYsZqPBrt8cqTSNOV/HackCBS?type=design&node-id=0%3A1&mode=design&t=ynFpkVBPMfrKGaKJ-1).
 
 ##Presentation for BrainBrawl is available at [Canva Link](https://www.canva.com/design/DAFzOcRR3Fc/4HsyCJ5oXb7JRiyoBEooXQ/edit?utm_content=DAFzOcRR3Fc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
