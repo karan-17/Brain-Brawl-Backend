@@ -19,6 +19,16 @@ The Brain-Brawl application's main functionality is to facilitate knockout compe
 
 The backend of Brain-Brawl is deployed on the Render platform. You can access it at [https://hackcbs-backend.onrender.com/](https://hackcbs-backend.onrender.com/).
 
+## Frontend Deployment
+
+The frontend of Brain-Brawl is deployed on the Firebase platform. You can access it at [https://brainbrawl-0001.web.app/](https://brainbrawl-0001.web.app/).
+
+## Figma Design Document
+
+The design of BrainBrawl is published at Figma. You can access it at [https://www.figma.com/file/tc2vPJYsZqPBrt8cqTSNOV/HackCBS?type=design&node-id=0%3A1&mode=design&t=ynFpkVBPMfrKGaKJ-1](https://www.figma.com/file/tc2vPJYsZqPBrt8cqTSNOV/HackCBS?type=design&node-id=0%3A1&mode=design&t=ynFpkVBPMfrKGaKJ-1).
+
+##Presentation for BrainBrawl is available at [Canva Link](https://www.canva.com/design/DAFzOcRR3Fc/4HsyCJ5oXb7JRiyoBEooXQ/edit?utm_content=DAFzOcRR3Fc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
 ## API Endpoints
 
 The following are the available API endpoints of the Brain-Brawl application:
@@ -29,6 +39,7 @@ The following are the available API endpoints of the Brain-Brawl application:
 4. **participantsview**: Displays all participants with their IDs and levels.
 5. **users**: Provides functionality to add, modify, or delete users on the platform.
 6. **register recruiters**: Allows contest hosting organizations to register on the platform.
+
 
 ## Getting Started
 
